@@ -35,14 +35,23 @@ http://ttp.essex.ac.uk/images/examples/io_closeable/5.png
 *IO trail @ Oracle*
 http://docs.oracle.com/javase/tutorial/essential/io/index.html
 
+*Article for all kinds of links in Windows*
+http://comptb.cects.com/overview-to-understanding-hard-links-junction-points-and-symbolic-links-in-windows/
+
 *Q&A*
 * What is Decorator pattern in Java IO ? http://stackoverflow.com/questions/6366385/decorator-pattern-for-io 
 * What is Stream?
-* What is ByteStream?
-* What is StreamReader? How to use encoding in Byte and File Streams?
+* What is Byte Stream?
+* What is Character Stream?
+* What is Buffered Stream?
+* What is StreamReader? How to use encoding in Streams?
 * What is Path?
 * Bonus: What is Glob?
+* What fincionality represents File in Java?
 * What is Scanner?
+* What is RandomAccessFile?
+* Bonus: What is filter streams?
+* Bonus: What is PrintStream and PrintWriter?
 * What kind of Links are there?//symbolic, hard
 
-*Time: 1H 30 min*
+*Time: 2H*
